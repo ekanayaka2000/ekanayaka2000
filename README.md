@@ -129,9 +129,3 @@
     <img src="data/bottom_header.svg" alt="ekanayaka2000">
   </a>
 </p>
-
-<<<<<<< HEAD
-<br/>
-=======
-<br/>
->>>>>>> c3653f2d3a907d160efae40faea2c3b341e342cc
