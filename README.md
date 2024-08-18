@@ -1,14 +1,14 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <p align="center">
  <a href="https://github.com/ekanayaka2000">
   <img src="https://masteringnuxt.com/images/astronaut.webp" height="400"/>
  </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <p align="center" width="100%">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Pramod%20Madhuranga;Full%20Stack%20Software%20Engineer;NIBM%20Undergraduate%20👨‍🎓&font=Nunito&center=true&width=440&height=45&color=e7e30c&vCenter=true&size=28" width="100%"></a>
 </p>
-
 
 
 <h3 align="center">an enthusiastic Sri Lankan software developer. a driven, reliable worker who thrives in a hectic workplace, delivering good work and demonstrating exceptional interpersonal, teamwork, and dedication. I'm doing all in my power to use technology to improve the earth for all living things..
