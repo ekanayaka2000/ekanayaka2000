@@ -4,8 +4,9 @@
  </a>
 </p>
 
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <p align="center" width="100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Pramod%20Madhuranga;Full%20Stack%20Software%20Engineer;NIBM%20Undergraduate%20👨‍🎓&font=Nunito&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Pramod%20Madhuranga;Full%20Stack%20Software%20Engineer;NIBM%20Undergraduate%20👨‍🎓&font=Nunito&center=true&width=440&height=45&color=e7e30c&vCenter=true&size=28" width="100%"></a>
 </p>
 
 
