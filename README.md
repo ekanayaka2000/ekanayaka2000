@@ -22,9 +22,6 @@
 <a href="https://github.com/ekanayaka2000tab=followers" target="_blank"><img align="center" alt="ekanayaka2000 | followers" width="93px" src="https://img.shields.io/github/followers/ekanayaka2000?label=Followers&style=social" /></a>&nbsp;&nbsp;<p/>
 </p>
 <br/>
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekanayaka2000&row=1&column=6&theme=onestar&no-frame=false&no-bg=false&margin-w=4" alt="ekanayaka2000" /></a></p>
-<br/>
 
 ## 🙋🏻 About Me..
 
@@ -40,6 +37,19 @@
 <a href="https://fb.com/pramodekanayaka2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pramodekanayaka2000" height="30" width="40" /></a>
 <a href="https://instagram.com/pramod__m11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramod__m11" height="30" width="40" /></a>
 </p>
+<br/>
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekanayaka2000&row=1&column=6&theme=onestar&no-frame=false&no-bg=false&margin-w=4" alt="ekanayaka2000" /></a></p>
+<br/>
+
+## 🐍 Snake eating my contributions graph 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</picture>
 <br/>
 
 ## 🎲 Languages and Tools 
@@ -69,24 +79,6 @@
 ![Spotify](https://img.shields.io/badge/spotify-%23000000.svg?style=for-the-badge&logo=spotify&logoColor=litegreen)
 <br/>
 
-## 🐍 Snake eating my contributions graph 
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-<br/>
 
 ## 📊 Github Stats and Activity
 
