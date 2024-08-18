@@ -13,8 +13,13 @@
 <h3 align="center">an enthusiastic Sri Lankan software developer. a driven, reliable worker who thrives in a hectic workplace, delivering good work and demonstrating exceptional interpersonal, teamwork, and dedication. I'm doing all in my power to use technology to improve the earth for all living things..
 </h3>
 <p>
-
 </br>
+
+<!-- Badges with custom icons section -->
+<p align="center" width="100%">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekanayaka2000&label=Profile%20views&color=0e75b6&style=flat" alt="ekanayaka2000"/><br/>
+<a href="https://github.com/ekanayaka2000tab=followers" target="_blank"><img align="center" alt="ekanayaka2000 | followers" width="93px" src="https://img.shields.io/github/followers/ekanayaka2000?label=Followers&style=social" /></a>&nbsp;&nbsp;<p/>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekanayaka2000" alt="ekanayaka2000" /></a> </p>
 
@@ -27,11 +32,7 @@
 
 <br/>
 
-<!-- Badges with custom icons section -->
-<p align="center" width="100%">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekanayaka2000&label=Profile%20views&color=0e75b6&style=flat" alt="ekanayaka2000"/><br/>
-<a href="https://github.com/ekanayaka2000tab=followers" target="_blank"><img align="center" alt="ekanayaka2000 | followers" width="93px" src="https://img.shields.io/github/followers/ekanayaka2000?label=Followers&style=social" /></a>&nbsp;&nbsp;<p/>
-</p>
+
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
