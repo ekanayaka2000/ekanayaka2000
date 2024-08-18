@@ -79,10 +79,10 @@
 ![Spotify](https://img.shields.io/badge/spotify-%23000000.svg?style=for-the-badge&logo=spotify&logoColor=litegreen)
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 Github Stats and Activity
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">🔥 Streak Stats</h3>
   <!-- GitHub Readme Streak Stats - https://github.com/ekanayaka2000/github-readme-streak-stats -->
 <div align="center">
