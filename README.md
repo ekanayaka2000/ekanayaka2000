@@ -29,8 +29,7 @@
 
 <!-- Badges with custom icons section -->
 <p align="center" width="100%">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekanayaka2000&label=Profile%20views&color=0e75b6&style=flat" alt="ekanayaka2000"/><a href="https://github.com/ekanayaka2000tab=followers" target="_blank">
-<img align="center" alt="ekanayaka2000 |followers" width="93px" src="https://img.shields.io/github/followers/ekanayaka2000?label=Followers&style=social" /></a>&nbsp;&nbsp;<p/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekanayaka2000&label=Profile%20views&color=0e75b6&style=flat" alt="ekanayaka2000"/><a href="https://github.com/ekanayaka2000tab=followers" target="_blank"><img align="center" alt="ekanayaka2000 | followers" width="93px" src="https://img.shields.io/github/followers/ekanayaka2000?label=Followers&style=social" /></a>&nbsp;&nbsp;<p/>
 </p>
  
 <h3 align="left">Connect with me:</h3>
