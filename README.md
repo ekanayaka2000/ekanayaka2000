@@ -18,7 +18,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekanayaka2000" alt="ekanayaka2000" /></a> </p>
 
-##🙋🏻 About Me..
+## 🙋🏻 About Me..
 
  <img alt="GIF" src="https://github.com/ekanayaka2000/ekanayaka2000/blob/main/images/Developer.gif" width="25" /> &nbsp;I'm a Student at **[NIBM Campus](https://www.nibm.lk/)**<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
  <img src="https://github.com/ekanayaka2000/ekanayaka2000/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; I’m looking to collaborate on **OpenSource Projects**. <br>
