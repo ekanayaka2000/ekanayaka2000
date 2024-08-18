@@ -106,7 +106,7 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ekanayaka2000&theme=github-dark"/>
 <br/>
 
-## 👨🏻‍💻 Support me 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">## 👨🏻‍💻 Support me
 
 <h3 align="center">Support:</h3>
 <p>
