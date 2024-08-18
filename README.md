@@ -7,12 +7,13 @@
 </p>
 
 <p align="center" width="100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Pramod%20Madhuranga;Full%20Stack%20Software%20Engineer;NIBM%20Undergraduate%20👨‍🎓&font=Nunito&center=true&width=440&height=45&color=e7e30c&vCenter=true&size=28" width="100%"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Pramod%20Madhuranga;Full%20Stack%20Software%20Engineer;NIBM%20Undergraduate%20👨‍🎓&font=Nunito&center=true&width=440&height=45&color=cfcfc8&vCenter=true&size=28" width="100%"></a>
 </p>
 
 
-<h3 align="center">an enthusiastic Sri Lankan software developer. a driven, reliable worker who thrives in a hectic workplace, delivering good work and demonstrating exceptional interpersonal, teamwork, and dedication. I'm doing all in my power to use technology to improve the earth for all living things..
+<h3 align="center">👨‍💻 An enthusiastic Sri Lankan software developer. A driven, reliable worker who thrives in a hectic workplace, delivering good work and demonstrating exceptional interpersonal, teamwork, and dedication🎓. I'm doing all in my power to use technology to improve the earth for all living things..🧑‍🎓🌍
 </h3>
+
 <p>
 </br>
 
@@ -22,7 +23,8 @@
 <a href="https://github.com/ekanayaka2000tab=followers" target="_blank"><img align="center" alt="ekanayaka2000 | followers" width="93px" src="https://img.shields.io/github/followers/ekanayaka2000?label=Followers&style=social" /></a>&nbsp;&nbsp;<p/>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekanayaka2000" alt="ekanayaka2000" /></a> </p>
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekanayaka2000&row=1&column=6&theme=onestar&no-frame=false&no-bg=false&margin-w=4" alt="ekanayaka2000" /></a> </p>
 
 ## 🙋🏻 About Me..
 
@@ -32,8 +34,6 @@
  &nbsp;&nbsp;<img src="https://github.com/ekanayaka2000/ekanayaka2000/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact :**Playing video games , Watching movies , TV-series & animes , Travelling**.<br>
 
 <br/>
-
-
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,7 +42,6 @@
 <a href="https://fb.com/pramodekanayaka2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pramodekanayaka2000" height="30" width="40" /></a>
 <a href="https://instagram.com/pramod__m11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramod__m11" height="30" width="40" /></a>
 </p>
-
 
 
 ## 📊 Github Stats and Activity
@@ -56,13 +55,23 @@
     </a>
   </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
+<a href="https://github.com/ekanayaka2000">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekanayaka2000&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ekanayaka2000&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekanayaka2000&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ekanayaka2000&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekanayaka2000&theme=radical" height="180em" />
+</div>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ekanayaka2000&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ekanayaka2000&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ekanayaka2000&theme=github-dark"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 
 ## 🎲 Languages and Tools 
 
