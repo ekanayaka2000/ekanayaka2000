@@ -108,10 +108,11 @@
 
 ## 👨🏻‍💻 Support me 
 
-<p align="center">
-  <a href="https://buymeacoffee.com/pramod2000" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
+<h3 align="center">Support:</h3>
+<p>
+<a href="https://www.buymeacoffee.com/pramod2000">
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a>
+<a href="https://ko-fi.com/pramod2000"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/pramod2000" /></a><br><br>
 </p>
 <br/>
 
