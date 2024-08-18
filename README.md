@@ -29,15 +29,11 @@
 
 <!-- Badges with custom icons section -->
 <p align="center" width="100%">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekanayaka2000&label=Profile%20views&color=0e75b6&style=flat" alt="ekanayaka2000" /> </p>
-&nbsp;&nbsp;
-<a href="https://github.com/ekanayaka2000tab=followers" target="_blank">
-  <img align="center" alt="ekanayaka2000 | followers" width="93px" src="https://img.shields.io/github/followers/ekanayaka2000?label=Followers&style=social" /></a> &nbsp;&nbsp;
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekanayaka2000&label=Profile%20views&color=0e75b6&style=flat" alt="ekanayaka2000" /></p>
+&nbsp;&nbsp;<a href="https://github.com/ekanayaka2000tab=followers" target="_blank">
+<img align="center" alt="ekanayaka2000 | followers" width="93px" src="https://img.shields.io/github/followers/ekanayaka2000?label=Followers&style=social" /></a>&nbsp;&nbsp;
 </p>
  
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pramodekanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pramodekanayaka" height="30" width="40" /></a>
@@ -47,7 +43,8 @@
 </p>
 
 
-📊 Github Stats and Activity
+
+## 📊 Github Stats and Activity
 
   <h3>🔥 Streak Stats</h3>
 
@@ -66,14 +63,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ekanayaka2000&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
-🎲 Languages and Tools 
+## 🎲 Languages and Tools 
 
 ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino,c,cpp,cs,html,css,tailwind,js,nextjs,nodejs,express,laravel,java,react,azure,docker,eclipse,idea,firebase,linkedin,matlab,mongodb,mysql,php,postman,spring,stackoverflow,unity,visualstudio,vscode,threejs,raspberrypi,dotnet,blender,androidstudio)
 
 <br/>
 
 
-🫂 Also Familiar
+## 🫂 Also Familiar
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
  
@@ -83,20 +80,19 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-🍿 In free time
+## 🍿 In free time
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 
-🖥️ My DevSetup
+## 🖥️ My DevSetup
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0D96F6?style=for-the-badge&logo=windows&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Vscode-003399?style=for-the-badge&logo=visualstudio&logoColor=blue)
 ![Spotify](https://img.shields.io/badge/spotify-%23000000.svg?style=for-the-badge&logo=spotify&logoColor=litegreen)
 
 
-
-🐍 Snake eating my contributions graph 
+## 🐍 Snake eating my contributions graph 
 
 <picture>
   <source
@@ -115,7 +111,7 @@
 
 <br/>
 
-👨🏻‍💻 Support me 
+## 👨🏻‍💻 Support me 
 
 <p align="center">
   <a href="https://buymeacoffee.com/pramod2000" target="_blank">
