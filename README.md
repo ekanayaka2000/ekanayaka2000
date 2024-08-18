@@ -82,16 +82,16 @@
 
 ## 📊 Github Stats and Activity
 
-  <h3>🔥 Streak Stats</h3>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">🔥 Streak Stats</h3>
   <!-- GitHub Readme Streak Stats - https://github.com/ekanayaka2000/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/ekanayaka2000/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="uekanayaka2000's streak" src="https://streak-stats.demolab.com/?user=ekanayaka2000&theme=monokai-metallian&hide_border=true"/>
+      <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ekanayaka2000's streak" src="https://streak-stats.demolab.com/?user=ekanayaka2000&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<h3 align="center">Statistics</h3>
 
 <div align="center">
 <a href="https://github.com/ekanayaka2000">
