@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" width="100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Pramod%20Madhuranga;Full%20Stack%20Software%20Engineer;NIBM%20Undergraduate%20👨‍🎓&font=DM Serif Text%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Pramod%20Madhuranga;Full%20Stack%20Software%20Engineer;NIBM%20Undergraduate%20👨‍🎓&font=Matemasie&center=true&width=440&height=45&color=ff4130&vCenter=true&size=28" width="100%"></a>
 </p>
 
 
@@ -45,6 +45,7 @@
 <a href="https://fb.com/pramodekanayaka2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pramodekanayaka2000" height="30" width="40" /></a>
 <a href="https://instagram.com/pramod__m11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramod__m11" height="30" width="40" /></a>
 </p>
+
 
 📊 Github Stats and Activity
 
